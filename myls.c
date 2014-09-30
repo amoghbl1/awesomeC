@@ -1,3 +1,5 @@
+// Written by amoghbl1
+
 #define _GNU_SOURCE         /* See feature_test_macros(7) */
 #include <sys/syscall.h>   /* For SYS_xxx definitions */
 #include<sys/types.h>
